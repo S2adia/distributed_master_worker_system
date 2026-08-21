@@ -1,0 +1,86 @@
+{
+    "john": {
+        "record_id": 1,
+        "name": "john",
+        "location": "Orlando",
+        "year": 2002
+    },
+    "alice": {
+        "record_id": 2,
+        "name": "alice",
+        "location": "New York City",
+        "year": 2002
+    },
+    "bob": {
+        "record_id": 3,
+        "name": "bob",
+        "location": "Newport Beach",
+        "year": 2001
+    },
+    "bill": {
+        "record_id": 4,
+        "name": "bill",
+        "location": "Kansas City",
+        "year": 2002
+    },
+    "carrie": {
+        "record_id": 5,
+        "name": "carrie",
+        "location": "Los Angeles",
+        "year": 2004
+    },
+    "jennifer": {
+        "record_id": 6,
+        "name": "jennifer",
+        "location": "New York City",
+        "year": 2001
+    },
+    "daine": {
+        "record_id": 7,
+        "name": "daine",
+        "location": "New York City",
+        "year": 2006
+    },
+    "fannie": {
+        "record_id": 8,
+        "name": "fannie",
+        "location": "Newport Beach",
+        "year": 2012
+    },
+    "hena": {
+        "record_id": 9,
+        "name": "hena",
+        "location": "Newport Beach",
+        "year": 2012
+    },
+    "marshal": {
+        "record_id": 10,
+        "name": "marshal",
+        "location": "Oerland Park",
+        "year": 2002
+    },
+    "alicia": {
+        "record_id": 11,
+        "name": "alicia",
+        "location": "Oerland Park",
+        "year": 2020
+    },
+    "deep": {
+        "record_id": 12,
+        "name": "deep",
+        "location": "Kansas City",
+        "year": 2022
+    },
+    "garbar": {
+        "record_id": 13,
+        "name": "garbar",
+        "location": "New York City",
+        "year": 2015
+    },
+    "cody": {
+        "record_id": 14,
+        "name": "cody",
+        "location": "Orlando",
+        "year": 2004
+    }
+}
